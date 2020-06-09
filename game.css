@@ -1,0 +1,30 @@
+#playground{
+    width: 100%;
+    background-color:lightblue;
+    height: 90px;
+}
+
+#area-bola{
+    margin-top: 60px;
+    width: 150px;
+    float: left;
+}
+#bola{
+    width: 30px;
+    border-radius: 50%;
+    height: 30px;
+    background-color: red;
+    margin-left: 150px;    
+}
+#halangan{
+    margin-top: 60px;
+    float: left;
+    width: 30px;
+    background-color:blueviolet;
+    height: 30px;
+}
+#message{
+    margin-left: 40%;
+    color:red;
+    position: absolute;
+}
